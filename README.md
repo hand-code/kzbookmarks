@@ -51,6 +51,8 @@ http://coderepos.org/share/browser/platform/mysql/mycached/trunk/NOTES
 # coroutine
 https://en.wikipedia.org/wiki/Setcontext
 
+https://github.com/tencent-wechat/libco
+
 https://github.com/cloudwu/coroutine
 # a python server frameworker
 https://github.com/channelcat/sanic
