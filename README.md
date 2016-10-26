@@ -72,3 +72,6 @@ https://git.oschina.net/likecg/kbengine
 
 # json library
 https://github.com/miloyip/rapidjson
+
+# mysql proxy
+https://github.com/onexsoft/oneproxy-monitor
