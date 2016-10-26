@@ -50,3 +50,12 @@ http://coderepos.org/share/browser/platform/mysql/mycached/trunk/NOTES
 
 # coroutine
 https://en.wikipedia.org/wiki/Setcontext
+
+https://github.com/cloudwu/coroutine
+# a python server frameworker
+https://github.com/channelcat/sanic
+
+# http server
+
+# php extension
+https://github.com/dreamsxin/cphalcon7
