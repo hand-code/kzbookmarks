@@ -63,3 +63,12 @@ http://redis.io/topics/cluster-tutorial
 
 # php extension
 https://github.com/dreamsxin/cphalcon7
+
+# mysql source,other version
+http://www.oschina.net/p/myrocks
+
+# kegine, game engine
+https://git.oschina.net/likecg/kbengine
+
+# json library
+https://github.com/miloyip/rapidjson
