@@ -56,6 +56,10 @@ https://github.com/cloudwu/coroutine
 https://github.com/channelcat/sanic
 
 # http server
+https://github.com/lighttpd/lighttpd2
+
+# redis cluster
+http://redis.io/topics/cluster-tutorial
 
 # php extension
 https://github.com/dreamsxin/cphalcon7
