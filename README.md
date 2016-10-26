@@ -23,3 +23,20 @@ http://blog.csdn.net/column/details/leveldb.html
 
 # uwsgi
 https://github.com/unbit/uwsgi
+
+# redis cluster
+http://oldblog.antirez.com/post/redis-presharding.html
+
+# 事件库
+https://github.com/kazuho/picoev
+
+# thread
+
+https://github.com/kazuho/manymanythreads
+
+# json
+https://github.com/kazuho/picojson
+
+# httpparser
+https://github.com/h2o/picohttpparser
+
