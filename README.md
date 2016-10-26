@@ -40,3 +40,13 @@ https://github.com/kazuho/picojson
 # httpparser
 https://github.com/h2o/picohttpparser
 
+# http server hto
+https://github.com/h2o/h2o
+
+# mysql udf
+http://developer.cybozu.co.jp/archives/kazuho/2009/08/mycached-memcac.html
+
+http://coderepos.org/share/browser/platform/mysql/mycached/trunk/NOTES
+
+# coroutine
+https://en.wikipedia.org/wiki/Setcontext
