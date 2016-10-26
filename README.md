@@ -123,3 +123,6 @@ https://github.com/Luxurioust/aurora
 
 # wsgi server
 https://github.com/mopemope/meinheld
+https://github.com/eventlet/eventlet
+http://www.fullstackpython.com/wsgi-servers.html
+https://pypi.python.org/pypi/Spawning/
