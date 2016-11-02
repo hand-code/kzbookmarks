@@ -1,0 +1,199 @@
+# 系统菜单
+SYS_MENU_LIST = [
+    {
+        'title': '统计管理',
+        'tag': 'stats',
+        'url': '/stats/home',
+        'icon': 'icon-database',
+        'permissionvalue': '111,112,113,114,115,116',
+        'son': [
+            {
+                'title': '用户统计',
+                'tag': 'user',
+                'url': '/stats/user',
+                'permissionvalue': '111',
+            }, {
+                'title': '资金统计',
+                'tag': 'funds',
+                'url': '/stats/funds',
+                'permissionvalue': '112',
+            }, {
+                'title': '文章统计',
+                'tag': 'article',
+                'url': '/stats/article',
+                'permissionvalue': '113',
+
+            }, {
+                'title': '任务统计',
+                'tag': 'task',
+                'url': '/stats/task',
+                'permissionvalue': '114',
+            }, {
+                'title': '产品统计',
+                'tag': 'item',
+                'url': '/stats/item',
+                'permissionvalue': '115',
+            }, {
+                'title': '订单统计',
+                'tag': 'order',
+                'url': '/stats/order',
+                'permissionvalue': '116',
+            }
+        ]
+    }, {
+        'title': '内容管理',
+        'tag': 'article,item,order,task,merchant,survey,help,report,adv,users',
+        'url': '/article/list',
+        'icon': 'icon-book',
+        'permissionvalue': '5,6,2,3,35,46,14,37,15,7,33',
+        'son': [
+            {
+                'title': '软文管理',
+                'tag': 'article',
+                'url': '/article/list',
+                'permissionvalue': '5',
+                'button':[
+                    {
+                        'title': '软文分类',
+                        'tag': 'article_type',
+                        'url': '/article/type',
+                        'permissionvalue': '6',
+                    },
+                ]
+            }, {
+                'title': '产品管理',
+                'tag': 'item',
+                'url': '/item/list',
+                'permissionvalue': '2',
+                'button': [
+                    {
+                        'title': '产品分类',
+                        'tag': 'item_type',
+                        'url': '/item/type',
+                        'permissionvalue': '3',
+                    },
+                ]
+            }, {
+                'title': '任务管理',
+                'tag': 'task',
+                'url': '/task/list',
+                'permissionvalue': '35',
+            },
+            {
+                'title': '商家管理',
+                'tag': 'merchant',
+                'url': '/merchant/list',
+                'permissionvalue': '46',
+            },
+            {
+                'title': '调查管理',
+                'tag': 'survey',
+                'url': '/survey/list',
+                'permissionvalue': '14',
+            },
+            {
+                'title': '帮助管理',
+                'tag': 'help',
+                'url': '/help/list',
+                'permissionvalue': '37',
+            },
+            {
+                'title': '反馈管理',
+                'tag': 'report',
+                'url': '/report/list',
+                'permissionvalue': '15',
+            },
+            {
+                'title': '广告管理',
+                'tag': 'adv',
+                'url': '/adv/type',
+                'permissionvalue': '7',
+            },
+            {
+                'title': '用户管理',
+                'tag': 'users',
+                'url': '/users/list',
+                'permissionvalue': '33',
+            },
+
+        ]
+    },
+    {
+        'title': '资金管理',
+        'tag': 'apply,recharge,back,paylog,invoice',
+        'url': '/apply/list',
+        'icon': 'icon-rmb',
+        'permissionvalue': '17,38,39,47,80',
+        'son': [
+            {
+                'title': '提现管理',
+                'tag': 'apply',
+                'url': '/apply/list',
+                'permissionvalue': '17',
+            },
+            {
+                'title': '充值管理',
+                'tag': 'recharge',
+                'url': '/recharge/list',
+                'permissionvalue': '38',
+            },
+            {
+                'title': '后台充值记录',
+                'tag': 'back',
+                'url': '/back/list',
+                'permissionvalue': '39',
+            },
+            {
+                'title': '商家充值记录',
+                'tag': 'paylog',
+                'url': '/paylog/list',
+                'permissionvalue': '47',
+            },
+            {
+                'title': '发票管理',
+                'tag': 'invoice',
+                'url': '/invoice/list',
+                'permissionvalue': '80',
+            }
+        ]
+    },
+    {
+        'title': '系统管理',
+        'tag': 'system',
+        'url': '/system/user_type',
+        'icon': 'icon-wrench',
+        'permissionvalue': '19,20,22,21,110',
+        'son': [
+            {
+                'title': '用户类型',
+                'tag': 'user_type',
+                'url': '/system/user_type',
+                'permissionvalue': '19',
+            },
+            {
+                'title': '角色管理',
+                'tag': 'role',
+                'url': '/system/role',
+                'permissionvalue': '20',
+            },
+            {
+                'title': '权限管理',
+                'tag': 'power',
+                'url': '/system/power',
+                'permissionvalue': '22',
+            },
+            {
+                'title': '系统设置',
+                'tag': 'setting',
+                'url': '/system/setting',
+                'permissionvalue': '21',
+            },
+            {
+                'title': '修改密码',
+                'tag': 'password',
+                'url': '/system/password',
+                'permissionvalue': '110',
+            }]
+    }
+
+]
