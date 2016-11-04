@@ -152,3 +152,18 @@ https://github.com/google/gumbo-parser
 
 # css 引擎渲染
 https://github.com/litehtml/litehtml
+
+# reactjs
+http://www.cocoachina.com/webapp/20150721/12692.html
+
+http://www.jianshu.com/p/0e42799be566
+
+http://react-china.org/t/react-native/3169
+
+http://wiki.jikexueyuan.com/project/react/
+
+http://reactjs.cn/react/docs/getting-started.html
+
+http://react-china.org/t/react-js/398
+
+http://www.ruanyifeng.com/blog/2015/03/react.html
