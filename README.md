@@ -126,6 +126,7 @@ https://github.com/mopemope/meinheld
 https://github.com/eventlet/eventlet
 http://www.fullstackpython.com/wsgi-servers.html
 https://pypi.python.org/pypi/Spawning/
+https://github.com/william-os4y/fapws3
 
 # web server
 https://www.oschina.net/question/12_4737
