@@ -171,3 +171,6 @@ http://www.ruanyifeng.com/blog/2015/03/react.html
 
 #uwsgi vs gevent
 https://ivan-site.com/2012/10/gevent-gunicorn-vs-uwsgi/
+
+#python things
+https://github.com/eliben/pycparser
