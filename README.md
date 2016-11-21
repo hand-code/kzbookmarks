@@ -167,3 +167,6 @@ http://reactjs.cn/react/docs/getting-started.html
 http://react-china.org/t/react-js/398
 
 http://www.ruanyifeng.com/blog/2015/03/react.html
+
+#uwsgi vs gevent
+https://ivan-site.com/2012/10/gevent-gunicorn-vs-uwsgi/
