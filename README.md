@@ -180,3 +180,5 @@ http://git.oschina.net/miracleqi/OpenWAF
 
 #ui theme
 https://almsaeedstudio.com/themes/AdminLTE/index2.html
+
+https://www.oschina.net/translate/6-tips-supercharge-cpp-11-vector-performance
