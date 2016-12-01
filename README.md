@@ -182,3 +182,5 @@ http://git.oschina.net/miracleqi/OpenWAF
 https://almsaeedstudio.com/themes/AdminLTE/index2.html
 
 https://www.oschina.net/translate/6-tips-supercharge-cpp-11-vector-performance
+
+https://www.oschina.net/translate/top-20-mysql-best-practices
