@@ -207,7 +207,11 @@ https://github.com/search?l=C&q=postgresql&type=Repositories&utf8=✓
 https://github.com/webscalesql/webscalesql-5.6
 https://github.com/percona/percona-server
 http://www.oschina.net/news/79441/ttyd-1-2-1
-
+https://www.oschina.net/news/78743/zeromq-libzmq-4-2-0
+https://www.oschina.net/news/78815/tera-0-5-1
+https://github.com/skypjack/uvw
+http://docs.libuv.org/en/v1.x/
+https://github.com/libuv/libuv
 # api
 https://github.com/lqik2004/xunlei-lixian-api-PureObjc
 http://www.oschina.net/news/79313/bfs-baidu-v-0-4-0
