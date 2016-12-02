@@ -205,3 +205,11 @@ https://github.com/libusual/libusual/tree/ab4f9b547919a22c32ef9e2c7e3925c374b17e
 https://github.com/pgbouncer/pgbouncer
 https://github.com/search?l=C&q=postgresql&type=Repositories&utf8=✓
 https://github.com/webscalesql/webscalesql-5.6
+https://github.com/percona/percona-server
+http://www.oschina.net/news/79441/ttyd-1-2-1
+
+# api
+https://github.com/lqik2004/xunlei-lixian-api-PureObjc
+http://www.oschina.net/news/79313/bfs-baidu-v-0-4-0
+http://www.oschina.net/news/79315/phalcon7-1-2-0
+https://github.com/xsank/EasyProxy
