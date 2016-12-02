@@ -212,6 +212,16 @@ https://www.oschina.net/news/78815/tera-0-5-1
 https://github.com/skypjack/uvw
 http://docs.libuv.org/en/v1.x/
 https://github.com/libuv/libuv
+
+https://github.com/tempbottle/libev
+https://github.com/deanmorin/libeventserver
+https://github.com/pijyoi/zmq_libev
+https://github.com/coolaj86/libev-examples
+https://github.com/Lupus/libevfibers
+https://github.com/spriteray/libevlite
+https://github.com/xuwening/libeventInterface
+https://github.com/dexgeh/webserver-libev-httpparser
+https://github.com/swm8023/libevnet
 # api
 https://github.com/lqik2004/xunlei-lixian-api-PureObjc
 http://www.oschina.net/news/79313/bfs-baidu-v-0-4-0
