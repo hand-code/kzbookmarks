@@ -186,3 +186,22 @@ https://www.oschina.net/translate/6-tips-supercharge-cpp-11-vector-performance
 https://www.oschina.net/translate/top-20-mysql-best-practices
 
 https://my.oschina.net/hardbone/blog/798552
+
+# 事件库
+http://c4fun.cn/blog/2014/03/06/libev-study/
+http://www.jianshu.com/p/3299e19d9bf4
+http://blog.csdn.net/gqtcgq/article/category/5811919
+http://www.chenzhenianqing.cn/articles/1051.html
+http://zhuxianzhong.blog.51cto.com/157061/1618750
+http://www.cnblogs.com/Huayuan/archive/2013/05/03/3058580.html
+http://blog.csdn.net/yusiguyuan/article/details/18274129
+http://blog.csdn.net/woxiaozhi/article/details/16963641
+http://blog.csdn.net/woxiaozhi/article/details/16963611
+https://github.com/ellzey/libevhtp
+https://github.com/kindy/libev
+https://github.com/ksophocleous/levlib
+https://github.com/macosforge/dss
+https://github.com/libusual/libusual/tree/ab4f9b547919a22c32ef9e2c7e3925c374b17ecf
+https://github.com/pgbouncer/pgbouncer
+https://github.com/search?l=C&q=postgresql&type=Repositories&utf8=✓
+https://github.com/webscalesql/webscalesql-5.6
