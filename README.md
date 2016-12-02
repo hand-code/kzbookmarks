@@ -226,6 +226,11 @@ https://github.com/swm8023/libevnet
 https://github.com/william-os4y/fapws3
 https://github.com/igithu/libevrpc
 https://github.com/theatrus/libevecache
+
+http://www.aikaiyuan.com/6941.html
+http://www.jianshu.com/p/542935a3bfa8
+https://my.oschina.net/eechen/blog/541139
+http://lutaf.com/218.htm
 # api
 https://github.com/lqik2004/xunlei-lixian-api-PureObjc
 http://www.oschina.net/news/79313/bfs-baidu-v-0-4-0
