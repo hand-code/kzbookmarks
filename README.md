@@ -222,6 +222,10 @@ https://github.com/spriteray/libevlite
 https://github.com/xuwening/libeventInterface
 https://github.com/dexgeh/webserver-libev-httpparser
 https://github.com/swm8023/libevnet
+
+https://github.com/william-os4y/fapws3
+https://github.com/igithu/libevrpc
+https://github.com/theatrus/libevecache
 # api
 https://github.com/lqik2004/xunlei-lixian-api-PureObjc
 http://www.oschina.net/news/79313/bfs-baidu-v-0-4-0
