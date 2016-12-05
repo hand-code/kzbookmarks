@@ -262,3 +262,6 @@ https://github.com/william-os4y/fapws3
 https://github.com/search?l=C&q=wsgi&type=Repositories&utf8=✓
 
 http://www.wzxue.com/wheatserver-2/
+
+# wheatserver失败
+http://www.wzxue.com/complexity-is-the-enemy-wheatserver项目失败记/
