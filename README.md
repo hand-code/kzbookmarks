@@ -244,3 +244,14 @@ https://www.qcloud.com/community/article/137?utm_source=Community&utm_medium=art
 #seafile
 http://git.oschina.net/lins05/seafile
 https://github.com/haiwen/seafile-server
+
+#mqtt
+https://github.com/tobyjaffey/mqtt-http-server
+https://github.com/ty4tw/MQTT-SN
+https://github.com/deoxxa/mqtt-protocol-c
+https://github.com/homewsn/whsnbg
+http://www.blogjava.net/yongboy/archive/2015/01/07/422119.html
+https://github.com/haiwen/seafile-server
+
+#websock
+https://github.com/search?l=C%2B%2B&p=1&q=websock&ref=searchresults&type=Repositories&utf8=✓
