@@ -240,3 +240,6 @@ https://github.com/xsank/EasyProxy
 
 #monogodb
 https://www.qcloud.com/community/article/137?utm_source=Community&utm_medium=article137&utm_campaign=kyzg
+
+#seafile
+http://git.oschina.net/lins05/seafile
