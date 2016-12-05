@@ -243,3 +243,4 @@ https://www.qcloud.com/community/article/137?utm_source=Community&utm_medium=art
 
 #seafile
 http://git.oschina.net/lins05/seafile
+https://github.com/haiwen/seafile-server
