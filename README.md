@@ -255,3 +255,8 @@ https://github.com/haiwen/seafile-server
 
 #websock
 https://github.com/search?l=C%2B%2B&p=1&q=websock&ref=searchresults&type=Repositories&utf8=✓
+
+#wsgi pro
+https://github.com/jonashaag/bjoern
+https://github.com/william-os4y/fapws3
+https://github.com/search?l=C&q=wsgi&type=Repositories&utf8=✓
