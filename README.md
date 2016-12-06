@@ -268,3 +268,11 @@ http://www.wzxue.com/complexity-is-the-enemy-wheatserver项目失败记/
 
 # python垃圾回收
 http://www.jianshu.com/p/1e375fb40506
+
+#tag 引擎
+http://blog.jobbole.com/100771/
+http://blog.jobbole.com/99910/
+http://www.tuicool.com/articles/3ueQZfY
+
+# ctypes
+http://www.ibm.com/developerworks/cn/linux/l-cn-pythonandc/
