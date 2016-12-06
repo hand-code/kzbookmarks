@@ -265,3 +265,6 @@ http://www.wzxue.com/wheatserver-2/
 
 # wheatserver失败
 http://www.wzxue.com/complexity-is-the-enemy-wheatserver项目失败记/
+
+# python垃圾回收
+http://www.jianshu.com/p/1e375fb40506
