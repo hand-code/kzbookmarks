@@ -286,3 +286,12 @@ http://lib.csdn.net/base/datastructure
 https://my.oschina.net/u/2894582/blog/801457?p=2&temp=1481249248175#blog-comments-list
 
 http://zookeeper.apache.org/doc/r3.3.3/zookeeperStarted.html
+
+#gearman
+http://www.lxway.com/82421802.htm
+http://www.lxway.com/86851094.htm
+http://www.lxway.com/4056448994.htm
+http://blog.chinaunix.net/uid-20357359-id-1963682.html
+http://www.cnblogs.com/cocowool/archive/2011/12/04/2275408.html
+http://wiki.phpboy.net/doku.php?id=2014-05:40-Gearman%E8%B0%83%E7%A0%94_%E6%B5%8B%E8%AF%95_%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md
+http://www.cnblogs.com/phpinfo/p/4634241.html
