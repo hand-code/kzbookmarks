@@ -295,3 +295,6 @@ http://blog.chinaunix.net/uid-20357359-id-1963682.html
 http://www.cnblogs.com/cocowool/archive/2011/12/04/2275408.html
 http://wiki.phpboy.net/doku.php?id=2014-05:40-Gearman%E8%B0%83%E7%A0%94_%E6%B5%8B%E8%AF%95_%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md
 http://www.cnblogs.com/phpinfo/p/4634241.html
+
+https://www.qcloud.com/community/article/244?utm_source=Community&utm_medium=article244&utm_campaign=kyzg
+https://my.oschina.net/u/2894582/blog/804421
