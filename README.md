@@ -298,3 +298,10 @@ http://www.cnblogs.com/phpinfo/p/4634241.html
 
 https://www.qcloud.com/community/article/244?utm_source=Community&utm_medium=article244&utm_campaign=kyzg
 https://my.oschina.net/u/2894582/blog/804421
+
+#postgresql
+http://blog.csdn.net/anzelin_ruc/article/details/8622770
+http://www.cnblogs.com/tjdx415/archive/2010/01/16/1649446.html
+http://www.cnblogs.com/flying-tiger/category/881004.html
+http://www.postgres.cn/index.php/home
+http://www.oschina.net/news/79983/galera-will-die-mysql-group-replication-realease
