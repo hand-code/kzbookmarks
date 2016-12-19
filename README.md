@@ -305,3 +305,6 @@ http://www.cnblogs.com/tjdx415/archive/2010/01/16/1649446.html
 http://www.cnblogs.com/flying-tiger/category/881004.html
 http://www.postgres.cn/index.php/home
 http://www.oschina.net/news/79983/galera-will-die-mysql-group-replication-realease
+
+#redis代码阅读
+https://www.qcloud.com/community/article/222?utm_source=Community&utm_medium=article222&utm_campaign=kyzg
