@@ -308,3 +308,5 @@ http://www.oschina.net/news/79983/galera-will-die-mysql-group-replication-realea
 
 #redis代码阅读
 https://www.qcloud.com/community/article/222?utm_source=Community&utm_medium=article222&utm_campaign=kyzg
+
+https://github.com/javierhonduco/write-a-strace-and-gdb
