@@ -62,3 +62,5 @@ http://www.oschina.net/project/top_cn_2016
 
 # 一致性算法
 https://my.oschina.net/OutOfMemory/blog/807634
+
+https://my.oschina.net/wangjie404/blog/815455
